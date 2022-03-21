@@ -140,3 +140,23 @@ nav .fa{
         padding: 30px;
     }
 }
+
+.course {
+    width: 80%;
+    text-align: center;
+    margin: auto;
+    padding-top: 100px;
+}
+
+.course h1{
+    font-size: 32px;
+    font-weight: 600;
+}
+
+.course p{
+    font-size: 14px;
+    line-height: 22px;
+    padding: 10px;
+    font-weight: 400;
+    color: #888;
+}
