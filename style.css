@@ -271,6 +271,7 @@ nav .fa{
     opacity: 1;
 }
 
+/* facilities  */
 .facilities {
     width: 80%;
     text-align: center;
@@ -291,3 +292,32 @@ nav .fa{
     font-weight: 400;
 }
 
+.facilcol {
+    flex-basis: 31%;
+    overflow: hidden;
+    position: relative;
+    margin-bottom: 30px;
+}
+
+.facilcol img{
+    width: 100%;
+    border-radius: 10px;
+    
+}
+
+.facilcol h3 {
+    font-size: 32px;
+    font-weight: 600;
+    margin-top: 20px;   
+    font-family: Playfair Display;
+}
+
+.facilcol p{
+    text-align: left;
+    line-height: 22px;
+    font-size: 14px;
+    font-weight: 400;
+    color: #888;
+    padding: 20px;
+    text-align: center;
+}
